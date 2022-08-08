@@ -5,7 +5,6 @@ const NavBar = () => {
   return (
     <div className='Navbar'>
       <div className='Contenido-Navbar'>
-        gaadf
       </div>
     </div>
   )
