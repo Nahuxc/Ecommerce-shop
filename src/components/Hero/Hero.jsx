@@ -5,7 +5,7 @@ function Hero() {
   return (
     <div className='hero-container'>
         <div className='bg-container'>
-            <img src="../../../fondoHero.png" alt="" className='img-bg'/>
+            <img src="../../../img/componentes/fondoHero.png" alt="" className='img-bg'/>
         </div>
         <div className='text-container'>
             <div>
